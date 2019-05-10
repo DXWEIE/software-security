@@ -11,3 +11,5 @@ https://blog.csdn.net/qq_37734256/article/details/88345245
 
 5. C语言实现shellcode注入PE文件弹出计算器 https://blog.csdn.net/qq_37734256/article/details/89342697
 
+6. Inline hook和IAT hook https://blog.csdn.net/qq_37734256/article/details/89930362
+
